@@ -5,10 +5,9 @@
 - 🤔 I’m looking for help with Web programming
 
 <div >
-  <a href="https://github.com/renantavaress">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renantavaress&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renantavaress&layout=compact&langs_count=7&theme=omni"/>
-</div>
+ <a href="https://github.com/renantavaress">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renantavaress&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renantavaress&layout=compact&langs_count=7&theme=dracula"/>
   
 <div style="display: inline_block">
     <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
